@@ -1,0 +1,5 @@
+pyproject.toml
+jnfs_AlexandreDeCamargo.egg-info/PKG-INFO
+jnfs_AlexandreDeCamargo.egg-info/SOURCES.txt
+jnfs_AlexandreDeCamargo.egg-info/dependency_links.txt
+jnfs_AlexandreDeCamargo.egg-info/top_level.txt

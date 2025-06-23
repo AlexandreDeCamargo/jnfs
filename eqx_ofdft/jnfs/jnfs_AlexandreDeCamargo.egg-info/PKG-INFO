@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: jnfs_AlexandreDeCamargo
+Version: 0.0.1
+Summary: Orbital Free Density Functional Theory with Continuous Normalzing Flows.
+Author-email: Alexandre de Camargo <decamara@mcmaster.ca>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/AlexandreDeCamargo/jnfs
+Project-URL: Issues, https://github.com/AlexandreDeCamargo/jnfs/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11.13
+Description-Content-Type: text/markdown
