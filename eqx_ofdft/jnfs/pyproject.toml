@@ -1,0 +1,19 @@
+[project]
+name = "jnfs_AlexandreDeCamargo"
+version = "0.0.1"
+authors = [
+  { name="Alexandre de Camargo", email="decamara@mcmaster.ca" },
+]
+description = "Orbital Free Density Functional Theory with Continuous Normalzing Flows."
+readme = "README.md"
+requires-python = ">=3.11.13"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/AlexandreDeCamargo/jnfs"
+Issues = "https://github.com/AlexandreDeCamargo/jnfs/issues"
